@@ -1,7 +1,7 @@
  👋 Hi, I’m @Francielly-Nascimento
  
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio.
-Apaixonada por tecnologia e em busca de uma oportunidade de colocar em prática tudo que venho aprendendo.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
+Apaixonada por tecnologia e em busca de uma oportunidade de colocar em prática tudo que venho aprendendo
  
 
 
