@@ -17,3 +17,9 @@ Apaixonada por tecnologia e em busca de uma oportunidade de colocar em prática 
 Francielly-Nascimento/Francielly-Nascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+***
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
+          
+ 
